@@ -1,0 +1,4 @@
+﻿  Decimal_Binario_Hexa.cpp
+C:\Users\Usuario\source\repos\Decimal_Binario_Hexa\Decimal_Binario_Hexa\Decimal_Binario_Hexa.cpp(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Usuario\source\repos\Decimal_Binario_Hexa\Decimal_Binario_Hexa\Header.h(126,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Decimal_Binario_Hexa.vcxproj -> C:\Users\Usuario\source\repos\Decimal_Binario_Hexa\x64\Debug\Decimal_Binario_Hexa.exe
